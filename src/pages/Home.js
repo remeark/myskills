@@ -23,7 +23,7 @@ export function Home(){
         <Text 
         style={styles.title}
         >
-            Hello, Marinho
+            Hello, Marinho Kraemer
         </Text>  
 
         <TextInput
